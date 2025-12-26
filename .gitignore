@@ -55,3 +55,7 @@ dkms.conf
 *.dwo
 
 qix*
+bin
+pack
+
+.DS_Store
